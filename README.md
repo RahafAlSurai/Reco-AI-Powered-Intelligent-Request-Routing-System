@@ -10,7 +10,7 @@ By leveraging advanced intelligence through the ChatGPT API, Reco introduces a d
 
 ## 📸 Screenshots
 
-![Screenshot 1](./Screenshots/s1.png)
+![Screenshot 1](./Screenshots/s2.png)
 
 ![Screenshot 1](Screenshots/s1.png)
 
