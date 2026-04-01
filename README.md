@@ -10,9 +10,9 @@ By leveraging advanced intelligence through the ChatGPT API, Reco introduces a d
 
 ## 📸 Screenshots
 
-![Screenshot 1](./Screenshot/s1.png)
+![Screenshot 1](./Screenshots/s1.png)
 
-![Screenshot 1](Screenshot/s1.png)
+![Screenshot 1](Screenshots/s1.png)
 
 ---
 
@@ -20,7 +20,7 @@ By leveraging advanced intelligence through the ChatGPT API, Reco introduces a d
 
 A quick demonstration of how Reco intelligently processes and routes requests:
 
-![Screenshot 1](PUT-THE-LINK-HERE)
+[Watch Reco in Action](./Screenshots/reco.mov)
 
 ---
 
