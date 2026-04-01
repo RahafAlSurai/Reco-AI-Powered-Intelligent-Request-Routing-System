@@ -2,9 +2,27 @@
 
 ## Overview
 
-Reco is an AI-driven system designed to intelligently route incoming data, requests, or issues to the most relevant department within an organization.
+Reco is an AI-powered orchestration layer designed to transform incoming data into structured operational actions across enterprise environments.
 
-Instead of relying on manual sorting or misdirected workflows, Reco leverages the ChatGPT API to analyze input and automatically assign it to the appropriate team, ensuring faster response times and more efficient operations.
+By leveraging advanced intelligence through the ChatGPT API, Reco introduces a dynamic decision engine that seamlessly aligns incoming signals with the internal workflow architecture of an organization.
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 1](./s1.png)
+
+![Screenshot 2](./s2.png)
+
+---
+
+## 🎥 Demo
+
+A quick demonstration of how Reco intelligently processes and routes requests:
+
+👉 [Watch Reco in Action](./reco.mov)
+
+---
 
 ## Problem Statement
 
@@ -15,16 +33,18 @@ Organizations often face delays and inefficiencies due to:
 * High operational overhead
 * Slow response times
 
-Reco solves this by automating the decision-making process of “who should handle what”.
+---
 
 ## Solution
 
-Reco acts as a smart decision engine that:
+Reco introduces an intelligent decision engine that:
 
-* Understands incoming data using AI
-* Determines the correct department or category
-* Routes the request automatically
-* Ensures each issue reaches the right owner instantly
+* Interprets incoming data using AI
+* Determines the most relevant operational path
+* Routes requests automatically
+* Ensures each issue reaches the appropriate owner efficiently
+
+---
 
 ## Key Features
 
@@ -33,6 +53,8 @@ Reco acts as a smart decision engine that:
 * Reduces human error in task assignment
 * Improves operational efficiency and response time
 * Scalable for enterprise-level environments
+
+---
 
 ## System Workflow
 
@@ -43,11 +65,15 @@ Reco acts as a smart decision engine that:
 5. Request is routed to the correct database/handler
 6. Output is organized and ready for action
 
+---
+
 ## Technologies Used
 
 * Java
 * ChatGPT API (OpenAI)
 * Database Processing
+
+---
 
 ## Business Impact
 
@@ -57,9 +83,13 @@ Reco acts as a smart decision engine that:
 * Better resource utilization
 * Supports digital transformation initiatives
 
+---
+
 ## Hackathon Achievement
 
 Developed as part of the ChatGPT Hackathon and selected among the **Top 15 projects**, highlighting its innovation and real-world business value.
+
+---
 
 ## Use Cases
 
@@ -68,6 +98,8 @@ Developed as part of the ChatGPT Hackathon and selected among the **Top 15 proje
 * Complaint classification and handling
 * Enterprise workflow automation
 
+---
+
 ## Future Enhancements
 
 * Real-time integration with enterprise systems
@@ -75,9 +107,13 @@ Developed as part of the ChatGPT Hackathon and selected among the **Top 15 proje
 * Multi-language support
 * Advanced AI tuning for higher accuracy
 
+---
+
 ## Team
 
 Stratus
+
+---
 
 ## Project Name
 
